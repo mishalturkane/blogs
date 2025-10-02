@@ -1,2 +1,2 @@
 # pinochhio
-images\pinocchio-img.jpg
+![Pinocchio Image](images/pinocchio-img.jpg)
