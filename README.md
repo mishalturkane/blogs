@@ -1,2 +1,2 @@
 # Mishal Turkane Blogs
-(x:)[https://x.com/mishaldotrwa]
+[X (Twitter)](https://x.com/mishaldotrwa)
