@@ -1,2 +1,2 @@
 # pinochhio
-![Pinocchio Image](images/pinocchio-img.jpg)
+![Pinocchio Image]<img src="images/pinocchio-img.jpg" alt="Pinocchio" width="400">
